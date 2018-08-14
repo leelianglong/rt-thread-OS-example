@@ -1,0 +1,10 @@
+.\objects\idle.o: ..\rt_thread\kernel\idle.c
+.\objects\idle.o: ..\rt_thread\include\rthw.h
+.\objects\idle.o: ..\rt_thread\include\rtthread.h
+.\objects\idle.o: ..\app\rtconfig.h
+.\objects\idle.o: ..\rt_thread\include\rtdebug.h
+.\objects\idle.o: ..\rt_thread\include\rtdef.h
+.\objects\idle.o: D:\EngineeringSoftware\Keil_core\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\idle.o: ..\rt_thread\include\rtservice.h
+.\objects\idle.o: ..\rt_thread\include\rtm.h
+.\objects\idle.o: ..\rt_thread\include\rtthread.h

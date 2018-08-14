@@ -1,0 +1,11 @@
+.\objects\dataqueue.o: ..\common\dataqueue.c
+.\objects\dataqueue.o: ..\rt_thread\include\rtthread.h
+.\objects\dataqueue.o: ..\app\rtconfig.h
+.\objects\dataqueue.o: ..\rt_thread\include\rtdebug.h
+.\objects\dataqueue.o: ..\rt_thread\include\rtdef.h
+.\objects\dataqueue.o: D:\EngineeringSoftware\Keil_core\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\dataqueue.o: ..\rt_thread\include\rtservice.h
+.\objects\dataqueue.o: ..\rt_thread\include\rtm.h
+.\objects\dataqueue.o: ..\rt_thread\include\rtthread.h
+.\objects\dataqueue.o: ..\rt_thread\include\rtdevice.h
+.\objects\dataqueue.o: ..\rt_thread\include\rthw.h

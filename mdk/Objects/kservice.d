@@ -1,0 +1,10 @@
+.\objects\kservice.o: ..\rt_thread\kernel\kservice.c
+.\objects\kservice.o: ..\rt_thread\include\rtthread.h
+.\objects\kservice.o: ..\app\rtconfig.h
+.\objects\kservice.o: ..\rt_thread\include\rtdebug.h
+.\objects\kservice.o: ..\rt_thread\include\rtdef.h
+.\objects\kservice.o: D:\EngineeringSoftware\Keil_core\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\kservice.o: ..\rt_thread\include\rtservice.h
+.\objects\kservice.o: ..\rt_thread\include\rtm.h
+.\objects\kservice.o: ..\rt_thread\include\rtthread.h
+.\objects\kservice.o: ..\rt_thread\include\rthw.h

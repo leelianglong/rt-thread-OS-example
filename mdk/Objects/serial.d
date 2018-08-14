@@ -1,0 +1,12 @@
+.\objects\serial.o: ..\bsp\serial.c
+.\objects\serial.o: ..\rt_thread\include\rthw.h
+.\objects\serial.o: ..\rt_thread\include\rtthread.h
+.\objects\serial.o: ..\app\rtconfig.h
+.\objects\serial.o: ..\rt_thread\include\rtdebug.h
+.\objects\serial.o: ..\rt_thread\include\rtdef.h
+.\objects\serial.o: D:\EngineeringSoftware\Keil_core\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\serial.o: ..\rt_thread\include\rtservice.h
+.\objects\serial.o: ..\rt_thread\include\rtm.h
+.\objects\serial.o: ..\rt_thread\include\rtthread.h
+.\objects\serial.o: ..\rt_thread\include\rtdevice.h
+.\objects\serial.o: ..\bsp\serial.h

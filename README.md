@@ -1,2 +1,2 @@
 # rt-thread-OS-example
-one demo  for rt-thread os  
+this project is just one example for rt-thread application based on ST standard lib equipped with Keil platform  
